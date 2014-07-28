@@ -6,14 +6,14 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>FasTip</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        FasTip tip calculator.
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
+    <author href="http://www.smashingmagazine.com/2014/02/11/four-ways-to-build-a-mobile-app-part3-phonegap/" email="support@phonegap.com">
+        Peter Traeg
     </author>
 
     <!--
